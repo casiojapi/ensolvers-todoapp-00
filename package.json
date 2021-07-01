@@ -1,0 +1,26 @@
+{
+  "name": "ensolvers-todoapp-00",
+  "version": "1.0.0",
+  "description": "todoapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximosan/ensolvers-todoapp-00.git"
+  },
+  "author": "maximo santoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximosan/ensolvers-todoapp-00/issues"
+  },
+  "homepage": "https://github.com/maximosan/ensolvers-todoapp-00#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9",
+    "save": "^2.4.0"
+  }
+}
